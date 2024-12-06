@@ -79,3 +79,8 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+.Rproj.user
+
+# Excluded folders (temporary)
+Private/
+
