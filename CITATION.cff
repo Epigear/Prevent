@@ -6,4 +6,5 @@ authors:
 title: "Epigear Prevent software"
 version: 0.0.0.0
 date-released: 2024-12-06
+license: GPL-3.0-or-later
 url: "https://github.com/Epigear/Prevent/"
